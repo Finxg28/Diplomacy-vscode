@@ -10,3 +10,4 @@ df = pd.DataFrame.from_dict(data)
 
 # print the dataframe
 print(df)
+print(df)
