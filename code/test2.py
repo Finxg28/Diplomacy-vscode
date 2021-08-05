@@ -9,7 +9,7 @@ with open(file.name) as open_file:
     #print(df["messages"])
     #print(df["players"])
     #print(df.keys())
-    #for item in df.keys(): #
+    #for item in df.keys(): 
         #print(df[item])
         #frompathlib iterdir
     print (df2)
