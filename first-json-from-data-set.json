@@ -1,0 +1,80 @@
+{
+    "messages": [
+        "Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together",
+        "Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?",
+        "Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?",
+        "Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned",
+        "Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt 🙂"
+    ],
+    "sender_labels": [
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "receiver_labels": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "speakers": [
+        "germany",
+        "italy",
+        "germany",
+        "germany",
+        "italy"
+    ],
+    "receivers": [
+        "italy",
+        "germany",
+        "italy",
+        "italy",
+        "germany"
+    ],
+    "absolute_message_index": [
+        87,
+        132,
+        138,
+        207,
+        221
+    ],
+    "relative_message_index": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "seasons": [
+        "Spring",
+        "Spring",
+        "Spring",
+        "Winter",
+        "Winter"
+    ],
+    "years": [
+        "1901",
+        "1901",
+        "1901",
+        "1901",
+        "1901"
+    ],
+    "game_score": [
+        "3",
+        "3",
+        "3",
+        "5",
+        "4"
+    ],
+    "game_score_delta": [
+        "0",
+        "0",
+        "0",
+        "1",
+        "-1"
+    ]
+
+}
