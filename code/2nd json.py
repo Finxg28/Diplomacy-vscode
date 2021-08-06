@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-file = Path(__file__).parents[1]/'first-json-from-data-set.json'
+file = Path(__file__).parents[1]/'2nd_json_from_dataset_test'
 import pandas
 with open(file.name) as open_file:
     df=json.load(open_file)
@@ -16,4 +16,3 @@ with open(file.name) as open_file:
         
     print ("Hello")
     import matplotlib.pyplot as plt
-    
