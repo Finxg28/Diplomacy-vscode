@@ -6,7 +6,7 @@ with open('testjson.json') as json_file:
     for dictionary in json_file:
         print(counter)
         diplomacy_dict = json.loads(dictionary)
-        game_score = diplomacy_dict['game_score']
+        messages = diplomacy_dict['messages']
         
-        print(diplomacy_dict['game_score'])
+        print(diplomacy_dict['messages'])
         
